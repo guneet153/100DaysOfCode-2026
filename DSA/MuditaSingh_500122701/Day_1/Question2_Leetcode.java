@@ -1,6 +1,6 @@
 package DSA.MuditaSingh_500122701.Day1;
 
-public class Question1_Leetcode {
+public class Question2_Leetcode {
      public static int missingNumber(int[] nums) {
         
         int n=nums.length;
